@@ -1,6 +1,5 @@
 
 public class Pessoa {
-    
     private String nome;
     private String cpf;
     private String rg;
@@ -28,7 +27,6 @@ public class Pessoa {
     public void setRg(String rg) {
         this.rg = rg;
     }
-    
     
     
 }
